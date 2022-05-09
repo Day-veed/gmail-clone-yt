@@ -84,7 +84,7 @@ function Mail() {
 
             <div className='mail__message'>
                 <p>
-                This is a message sgbvsbvibsiuvbsekvbskvsvjksebvksjbvkjsbvjksbvkjsdbvkjsdbvkjsdbdvkjsdbvkjsdvbkjsdbvkjsdbvkjsbdvkjsvuiwrbvjwrbviuwrgvoiwrjvnewbnvlkebvoiwehvjopwnvlkwnvuiwhvhoiwjv;lwemv;lwenvwjvewnv;lwenvliwev;oewln;welhlwejgwl;nlweknv;welnv;wehvoewj;lwenvlwkebvoiewv;lwenv;lwekhv;oweljv;lwev;lwlejv;l/ew.nv;lwehv;lwej;vlweh;voew
+                This is a message 
                 </p>
             </div>
         </div>
