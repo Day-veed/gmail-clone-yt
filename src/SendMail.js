@@ -17,7 +17,7 @@ function SendMail() {
             <input placeholder='Message...' type="text" className='sendMail__message'/>
 
             <div className='sendMail__options'>
-                <Button className='sendmMail__send' variant='contained' color="primary" type='submit'>Send</Button>
+                <Button className='sendMail__send' variant='contained' color="primary" type='submit'>Send</Button>
             </div>
         </form>
     </div>
