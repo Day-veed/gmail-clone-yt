@@ -14,7 +14,7 @@ import DuoIcon from '@mui/icons-material/Duo';
 import PhoneIcon from '@mui/icons-material/Phone';
 import SidebarOption from './SidebarOption';
 import { useDispatch } from 'react-redux';
-import openSendMesssage, { openSendMessage }  from './features/mailSlice';
+import  { openSendMessage }  from './features/mailSlice';
 
 
 function Sidebar() {
