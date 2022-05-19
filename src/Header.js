@@ -8,7 +8,7 @@ import AppsIcon from '@mui/icons-material/Apps'
 import NotificationsIcon from '@mui/icons-material/Notifications'
 import { useDispatch, useSelector } from 'react-redux';
 import { logOut, selectUser } from './features/userSlice';
-import { auth, provider } from "./firebase"
+import { auth } from "./firebase"
 
 function Header() {
     const user = useSelector(selectUser);
